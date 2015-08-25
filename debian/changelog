@@ -1,10 +1,4 @@
-ceibal-update (0.2) tatu; urgency=medium
-
-  * Requerir version de ceibal-repo-update >= 0.2 
-
- -- Plan Ceibal <apt@plan.ceibal.edu.uy>  Wed, 05 Aug 2015 22:45:02 -0300
-
-ceibal-update (0.1) tatu; urgency=medium
+ceibal-update (0.1) tero; urgency=medium
 
   * Versión inicial.
 
