@@ -1,3 +1,9 @@
+ceibal-update (0.3~trusty) tero; urgency=medium
+
+  * Incluir versión destino en número de versión.
+
+ -- Plan Ceibal <apt@plan.ceibal.edu.uy>  Tue, 25 Aug 2015 00:47:33 -0300
+
 ceibal-update (0.2) tero; urgency=medium
 
   * ceibal-repo-update >= 0.1 
