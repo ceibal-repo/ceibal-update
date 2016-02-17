@@ -1,3 +1,9 @@
+ceibal-update (0.3~trusty1) tero; urgency=medium
+
+  * Version de test
+
+ -- Plan Ceibal <apt@plan.ceibal.edu.uy>  Wed, 17 Feb 2016 11:40:04 -0300
+
 ceibal-update (0.3~trusty) tero; urgency=medium
 
   * Incluir versión destino en número de versión.
